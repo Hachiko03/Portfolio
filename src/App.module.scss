@@ -4,17 +4,12 @@
   text-align: center;
 }
 
-.base{
+.base {
   background-image: url("../assets/Background.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
 }
 
-.menu_base {
-  display: flex;
-  width: fit-content;
-  flex-direction: column;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   a:nth-of-type(2) .logo {

@@ -1,0 +1,10 @@
+.navbar{
+    display: flex;
+}
+
+.menu {
+    justify-content:flex-end;
+    flex-direction: column;
+    align-items:flex-end;
+    width: fit-content;
+}
